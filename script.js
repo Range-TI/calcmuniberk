@@ -3,7 +3,7 @@ const ALUMINIO_POR_LATA = 3;
 const SUCATA_PARA_CHAPA = 5;          // 5 sucatas -> 1 chapa de metal
 const COBRE_POR_PILHA  = 2;
 const ALUMINIO_PARA_ACO = 30;
-const COBRE_PARA_MOLA   = 20;
+const COBRE_PARA_MOLA   = 55;
 
 // -- consumo de intermediários por arma --
 const CHAPAS_CORPO_PISTOLA = 1;  // corpo de pistola também usa 1 chapa + chip
